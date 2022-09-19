@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // let baseURL = "http://localhost:8080";
-let baseURL = "http://3.17.133.171:8080";
+let baseURL = "http://3.17.133.171:8080/";
 
 const headers = {
   'Content-Type': 'application/json',
